@@ -222,7 +222,7 @@ If you would like to contribute have a look at our [code of conduct](https://git
 
 🧚🏻‍♀️✨ Interested in earning some fantastic rewards? 🔮✨
 
-Have a look at my [GitHub](https://github.com/sponsors/miamatriarx) or [Patreon](https://patreon.com/miamatriarx) pages, there are some fantastic rewards you can earn by supporting me ✨🧚🏻‍♀️
+Have a look at my [GitHub](https://github.com/sponsors/matriarx) or [Patreon](https://patreon.com/miamatriarx) pages, there are some fantastic <a href="https://github.com/sponsors/matriarx">rewards</a> you can earn by supporting me ✨🧚🏻‍♀️
 
 I create free and open source software published under MIT. It brings me joy to make things that add value to people's life and I would like to be able to continue doing so 🦄✨
 
@@ -284,15 +284,6 @@ At the cost of a coffee you can help make the world a better place ✨💕
   </p>
 
   <p>
-    <a href="https://github.com/sponsors/miamatriarx">
-      <img src="https://img.shields.io/badge/Support-404040?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
-    </a>
-    <a href="https://patreon.com/miamatriarx">
-      <img src="https://img.shields.io/badge/Patreon-f96854?logo=patreon&logoColor=ffffff" title="Patreon" alt="Patreon"/>
-    </a>
-  </p>
-
-  <p>
     <a href="https://discord.gg/matriarx">
       <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Join+the+community&color=738adb&logoColor=ffffff" title="Join the community" alt="Join the community"/>
     </a>
@@ -342,7 +333,7 @@ At the cost of a coffee you can help make the world a better place ✨💕
   <h2>🧚🏻‍♀️✨ Support ✨💕</h2>
 
   <p>
-    <a href="https://github.com/sponsors/miamatriarx">
+    <a href="https://github.com/sponsors/matriarx">
       <img src="https://img.shields.io/badge/GitHub-404040?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
     </a>
     <a href="https://patreon.com/miamatriarx">
@@ -356,7 +347,7 @@ At the cost of a coffee you can help make the world a better place ✨💕
     </a>
   </p>
 
-  <p>🧚🏻‍♀️✨ Have a look at the fantastic rewards you can earn for supporting me 🔮✨</p>
+  <p>🧚🏻‍♀️✨ Have a look at the fantastic <a href="https://github.com/sponsors/matriarx">rewards</a> you can earn for supporting me 🔮✨</p>
 </div>
 
 <p>
