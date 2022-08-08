@@ -193,9 +193,9 @@
 
 🪄✨ [Project](https://github.com/matriarx/documentation/projects)\
 🪄✨ [Discussions](https://github.com/matriarx/documentation/discussions)\
+🪄✨ [Issues](https://github.com/matriarx/documentation/issues)\
 🪄✨ [Wiki](https://github.com/matriarx/documentation/wiki)\
 🪄✨ [Docs](https://github.com/matriarx/documentation/blob/main/docs/readme.md)\
-🪄✨ [Source Code](https://github.com/matriarx/.github/blob/main/src/readme.md)\
 🪄✨ [Code of Conduct](https://github.com/matriarx/.github/blob/main/docs/code_of_conduct.md)\
 🪄✨ [Contributing](https://github.com/matriarx/.github/blob/main/docs/contributing.md)\
 🪄✨ [Security](https://github.com/matriarx/.github/blob/main/docs/security.md)\
